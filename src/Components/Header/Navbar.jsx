@@ -4,9 +4,9 @@ import Logo from "./Logo/Logo";
 const Navbar = () => {
   return (
     <div>
-      <nav className="flex justify-between items-center py-6 px-5">
+      <nav className="flex gap-2 px-1 justify-between items-center py-6  lg:px-5">
         <Logo></Logo>
-        <ul className="flex gap-5 text-xl">
+        <ul className="flex gap-5 text-sm lg:text-xl">
           <li>
             <NavLink
               to="/"
@@ -14,7 +14,7 @@ const Navbar = () => {
                 isPending
                   ? "pending "
                   : isActive
-                  ? "text-[#FF444A] underline text-xl font-bold"
+                  ? "text-[#FF444A] underline text-sm lg:text-xl font-bold"
                   : ""
               }
             >
@@ -28,7 +28,7 @@ const Navbar = () => {
                 isPending
                   ? "pending"
                   : isActive
-                  ? "text-[#FF444A] underline text-xl font-bold"
+                  ? "text-[#FF444A] underline text-sm lg:text-xl font-bold"
                   : ""
               }
             >
@@ -42,7 +42,7 @@ const Navbar = () => {
                 isPending
                   ? "pending"
                   : isActive
-                  ? "text-[#FF444A] underline text-xl font-bold"
+                  ? "text-[#FF444A] underline text-sm lg:text-xl font-bold"
                   : ""
               }
             >
