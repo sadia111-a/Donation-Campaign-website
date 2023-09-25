@@ -1,22 +1,5 @@
 import "../../../Style/Style.css";
 const Banner = () => {
-  // const Banner = ({setPhones,phones}) => {
-
-  //   const handleSearch = (e)=>{
-  //     e.preventDefault()
-
-  //     const searchValue = e.target.search.value
-  //     console.log(searchValue);
-  //     localStorage.setItem("search",searchValue)
-
-  //     const filterData = phones?.filter(phone=> phone.brand_name === searchValue)
-  //     setPhones(filterData)
-
-  //     console.log(filterData);
-
-  //   }
-  // onSubmit={handleSearch}
-
   return (
     <div
       className="hero min-h-screen"
