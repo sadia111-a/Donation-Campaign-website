@@ -1,4 +1,5 @@
 import PropTypes from "prop-types";
+import swal from "sweetalert";
 
 const SingleDonationCard = ({ donation }) => {
   const {
@@ -12,14 +13,33 @@ const SingleDonationCard = ({ donation }) => {
     description,
     price,
   } = donation || {};
+  const handleAddToDonation = () => {
+    const addedDonationArray = [];
+    const donationItems = JSON.parse(localStorage.getItem("donations"));
+    if (!donationItems) {
+      addedDonationArray.push(donation);
+      localStorage.setItem("donations", JSON.stringify(addedDonationArray));
+      swal("Good job!", "You Donate Successfully!", "success");
+    } else {
+      const isExist = donationItems.find((donation) => donation.id === id);
+      if (!isExist) {
+        addedDonationArray.push(...donationItems, donation);
+        localStorage.setItem("donations", JSON.stringify(addedDonationArray));
+        swal("Good job!", "You Donate Successfully!", "success");
+      } else {
+        swal("Error!", "You Already Donate here!", "error");
+      }
+    }
+  };
   return (
     <div className="relative">
       <div className="min-h-[60vh]  py-5">
         <div className="relative">
           <img className="h-[500px] w-3/4 mx-auto" src={picture} alt="" />
           <button
+            onClick={handleAddToDonation}
             style={{ background: text_button_bg_color }}
-            className="text-[#FFF] absolute bottom-6 left-6 text-xl font-semibold px-5 py-4 rounded-md"
+            className="text-[#FFF] absolute bottom-6 left-16 text-xl font-semibold px-5 py-4 rounded-md"
           >
             Donate ${price}
           </button>
