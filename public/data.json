@@ -1,0 +1,136 @@
+[
+  {
+    "id": 1,
+    "picture": "https://i.ibb.co/QNnpfCn/Health.png",
+    "title": "Clean water for children",
+    "category": "Health",
+    "category_bg_color": "#0052FF33",
+    "card_bg_color": "#0052FF26",
+    "text_button_bg_color": "#0052FF",
+    "description": "Your health is a precious gift, and there are those in need who hope for the gift of better health. Consider the power of your generosity. By donating to support health causes, you can be a lifeline for someone in their time of greatest need. Together, we can make a meaningful difference in the lives of those who deserve a chance at a healthier, happier life",
+    "price": 290.0
+  },
+  {
+    "id": 2,
+    "picture": "https://i.ibb.co/Hg1s9t0/Education.png",
+    "title": "Good education",
+    "category": "Education",
+    "category_bg_color": "#FF444A33",
+    "card_bg_color": "#FF444A26",
+    "text_button_bg_color": "#FF444A",
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+    "price": 290.0
+  },
+  {
+    "id": 3,
+    "picture": "https://i.ibb.co/ws9P3FD/Clothing.png",
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
+    "category_bg_color": " #79C23F33",
+    "card_bg_color": "#79C23F26",
+    "text_button_bg_color": "#79C23F",
+    "description": "Your clothing donation can make a world of difference. By giving away clothes you no longer need, you're not just clearing out your closet; you're providing warmth, dignity, and hope to someone in need. Your act of generosity doesn't just cover bodies; it wraps around hearts, reminding us all that kindness and compassion are always in style. Thank you for being a part of the fabric of change in someone's life.",
+    "price": 290.0
+  },
+  {
+    "id": 4,
+    "picture": "https://i.ibb.co/zn6yCv3/Food.png",
+    "title": "Better Food for Everyone",
+    "category": "Food",
+    "category_bg_color": "#F8714733",
+    "card_bg_color": "#F8714726",
+    "text_button_bg_color": "#F87147",
+    "description": "Food donation is a powerful act of kindness that nourishes not just the body, but also the soul. It's a reminder that in a world of abundance, we can make a difference in the lives of those who struggle to find their next meal. With every meal donated, we're not just filling a plate, we're filling hearts with hope and gratitude. Let us continue to share our blessings and combat hunger, one meal at a time, because together, we can create a world where no one goes to bed hungry.",
+    "price": 290.0
+  },
+  {
+    "id": 5,
+    "picture": "https://w7.pngwing.com/pngs/836/626/png-transparent-food-bank-food-drive-donation-baby-food-poor-food-breakfast-logo-thumbnail.png",
+    "title": "Better Food for Everyone",
+    "category": "Food",
+    "category_bg_color": "#F8714733",
+    "card_bg_color": "#F8714726",
+    "text_button_bg_color": "#F87147",
+    "description": "Food donation is a powerful act of kindness that nourishes not just the body, but also the soul. It's a reminder that in a world of abundance, we can make a difference in the lives of those who struggle to find their next meal. With every meal donated, we're not just filling a plate, we're filling hearts with hope and gratitude. Let us continue to share our blessings and combat hunger, one meal at a time, because together, we can create a world where no one goes to bed hungry.",
+    "price": 290.0
+  },
+  {
+    "id": 6,
+    "picture": "https://png.pngtree.com/png-clipart/20210828/ourmid/pngtree-volunteer-supplies-clothes-donation-concept-flat-illustration-png-image_3833299.jpg",
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
+    "category_bg_color": " #79C23F33",
+    "card_bg_color": "#79C23F26",
+    "text_button_bg_color": "#79C23F",
+    "description": "Your clothing donation can make a world of difference. By giving away clothes you no longer need, you're not just clearing out your closet; you're providing warmth, dignity, and hope to someone in need. Your act of generosity doesn't just cover bodies; it wraps around hearts, reminding us all that kindness and compassion are always in style. Thank you for being a part of the fabric of change in someone's life.",
+    "price": 290.0
+  },
+  {
+    "id": 7,
+    "picture": "https://static.thenounproject.com/png/4345467-200.png",
+    "title": "Good education",
+    "category": "Education",
+    "category_bg_color": "#FF444A33",
+    "card_bg_color": "#FF444A26",
+    "text_button_bg_color": "#FF444A",
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+    "price": 290.0
+  },
+
+  {
+    "id": 8,
+    "picture": "https://png.pngtree.com/png-vector/20210512/ourmid/pngtree-doctor-and-donation-of-the-womens-donation-day-illustration-png-image_3271810.jpg",
+    "title": "Clean water for children",
+    "category": "Health",
+    "category_bg_color": "#0052FF33",
+    "card_bg_color": "#0052FF26",
+    "text_button_bg_color": "#0052FF",
+    "description": "Your health is a precious gift, and there are those in need who hope for the gift of better health. Consider the power of your generosity. By donating to support health causes, you can be a lifeline for someone in their time of greatest need. Together, we can make a meaningful difference in the lives of those who deserve a chance at a healthier, happier life",
+    "price": 290.0
+  },
+
+  {
+    "id": 9,
+    "picture": "https://png.pngtree.com/element_our/png/20180918/giving-and-donate-png_100868.jpg",
+    "title": "Clean water for children",
+    "category": "Health",
+    "category_bg_color": "#0052FF33",
+    "card_bg_color": "#0052FF26",
+    "text_button_bg_color": "#0052FF",
+    "description": "Your health is a precious gift, and there are those in need who hope for the gift of better health. Consider the power of your generosity. By donating to support health causes, you can be a lifeline for someone in their time of greatest need. Together, we can make a meaningful difference in the lives of those who deserve a chance at a healthier, happier life",
+    "price": 290.0
+  },
+  {
+    "id": 10,
+    "picture": "https://icon2.cleanpng.com/20181201/fgw/kisspng-graduation-ceremony-national-primary-school-gradua-5c0321bb843220.2504525115437091155415.jpg",
+    "title": "Good education",
+    "category": "Education",
+    "category_bg_color": "#FF444A33",
+    "card_bg_color": "#FF444A26",
+    "text_button_bg_color": "#FF444A",
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+    "price": 290.0
+  },
+  {
+    "id": 11,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRBoLRex_hIy69WtA74aeMhSN3pNVGW-_Ncg&usqp=CAU",
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
+    "category_bg_color": " #79C23F33",
+    "card_bg_color": "#79C23F26",
+    "text_button_bg_color": "#79C23F",
+    "description": "Your clothing donation can make a world of difference. By giving away clothes you no longer need, you're not just clearing out your closet; you're providing warmth, dignity, and hope to someone in need. Your act of generosity doesn't just cover bodies; it wraps around hearts, reminding us all that kindness and compassion are always in style. Thank you for being a part of the fabric of change in someone's life.",
+    "price": 290.0
+  },
+  {
+    "id": 12,
+    "picture": "https://icon2.cleanpng.com/20180711/ayc/kisspng-donation-ice-cream-cones-clip-art-food-donation-5b46567de662a4.4879565415313363179437.jpg",
+    "title": "Better Food for Everyone",
+    "category": "Food",
+    "category_bg_color": "#F8714733",
+    "card_bg_color": "#F8714726",
+    "text_button_bg_color": "#F87147",
+    "description": "Food donation is a powerful act of kindness that nourishes not just the body, but also the soul. It's a reminder that in a world of abundance, we can make a difference in the lives of those who struggle to find their next meal. With every meal donated, we're not just filling a plate, we're filling hearts with hope and gratitude. Let us continue to share our blessings and combat hunger, one meal at a time, because together, we can create a world where no one goes to bed hungry.",
+    "price": 290.0
+  }
+]
