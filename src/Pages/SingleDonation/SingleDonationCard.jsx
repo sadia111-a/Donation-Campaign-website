@@ -34,12 +34,12 @@ const SingleDonationCard = ({ donation }) => {
   return (
     <div className="relative">
       <div className="min-h-[60vh]  py-5">
-        <div className="relative">
-          <img className="h-[500px] w-3/4 mx-auto" src={picture} alt="" />
-          <div className="absolute bottom-6 left-16">
+        <div className="relative ">
+          <img className="h-[500px] w-11/12 mx-auto" src={picture} alt="" />
+          <div className="absolute bottom-0 left-[53px] mx-auto w-full  text-start">
             {/* Add a div with a semi-transparent black background */}
             <div
-              className="w-full "
+              className=" w-11/12 bottom-0 flex justify-center items-center"
               style={{
                 background: "rgba(0, 0, 0, 0.5)", // Adjust the opacity as needed
                 display: "inline-block",
@@ -50,7 +50,7 @@ const SingleDonationCard = ({ donation }) => {
               <button
                 onClick={handleAddToDonation}
                 style={{ background: text_button_bg_color }}
-                className="text-[#FFF] text-xl font-semibold px-5 py-4 rounded-md"
+                className="text-[#FFF]  text-xl  font-semibold px-5 py-4 rounded-md"
               >
                 Donate ${price}
               </button>
@@ -59,10 +59,10 @@ const SingleDonationCard = ({ donation }) => {
         </div>
       </div>
       <div className="">
-        <h2 className="text-[#0B0B0B] text-5xl font-bold w-3/4 mx-auto">
+        <h2 className="text-[#0B0B0B] text-5xl font-bold w-11/12 mx-auto">
           {title}
         </h2>
-        <p className="text-[#0B0B0BB2] text-sm w-3/4 mx-auto py-5">
+        <p className="text-[#0B0B0BB2] text-sm w-11/12 mx-auto py-5">
           {description}
         </p>
       </div>
