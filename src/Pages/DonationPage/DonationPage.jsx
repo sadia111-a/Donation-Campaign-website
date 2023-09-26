@@ -11,7 +11,7 @@ const DonationPage = () => {
     if (donationItems) {
       setDonation(donationItems);
     } else {
-      setNoFound("No Data Found");
+      setNoFound("You have not made any Donations yet !!!");
     }
   }, []);
   console.log(donation);
@@ -20,7 +20,9 @@ const DonationPage = () => {
   return (
     <div>
       {noFound ? (
-        <p className="flex justify-center items-center h-[70vh]">{noFound}</p>
+        <p className="text-2xl font-semibold text-green-500 flex justify-center items-center h-[70vh]">
+          {noFound}
+        </p>
       ) : (
         <div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-5">

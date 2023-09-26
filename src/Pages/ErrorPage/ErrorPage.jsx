@@ -8,6 +8,9 @@ const ErrorPage = () => {
         <p className="text-gray-500 text-lg mb-6">
           We couldn't find the page you're looking for.
         </p>
+        <button className="bg-blue-500 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded-md transition duration-300 ease-in-out">
+          Go Back Home
+        </button>
       </div>
     </div>
   );
