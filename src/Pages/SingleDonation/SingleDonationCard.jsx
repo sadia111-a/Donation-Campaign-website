@@ -36,13 +36,26 @@ const SingleDonationCard = ({ donation }) => {
       <div className="min-h-[60vh]  py-5">
         <div className="relative">
           <img className="h-[500px] w-3/4 mx-auto" src={picture} alt="" />
-          <button
-            onClick={handleAddToDonation}
-            style={{ background: text_button_bg_color }}
-            className="text-[#FFF] absolute bottom-6 left-16 text-xl font-semibold px-5 py-4 rounded-md"
-          >
-            Donate ${price}
-          </button>
+          <div className="absolute bottom-6 left-16">
+            {/* Add a div with a semi-transparent black background */}
+            <div
+              className="w-full "
+              style={{
+                background: "rgba(0, 0, 0, 0.5)", // Adjust the opacity as needed
+                display: "inline-block",
+                padding: "10px",
+                borderRadius: "4px",
+              }}
+            >
+              <button
+                onClick={handleAddToDonation}
+                style={{ background: text_button_bg_color }}
+                className="text-[#FFF] text-xl font-semibold px-5 py-4 rounded-md"
+              >
+                Donate ${price}
+              </button>
+            </div>
+          </div>
         </div>
       </div>
       <div className="">
