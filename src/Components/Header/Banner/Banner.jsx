@@ -1,5 +1,11 @@
+import { useEffect, useState } from "react";
 import "../../../Style/Style.css";
+import PropTypes from "prop-types";
 const Banner = () => {
+  const handleSearch = (e) => {
+    e.preventDefault();
+  };
+
   return (
     <div
       className="hero min-h-screen"
@@ -15,7 +21,7 @@ const Banner = () => {
           </h1>
 
           <div className=" mx-auto w-full lg:w-[80%] ml-30  px-20">
-            <form>
+            <form onSubmit={handleSearch}>
               <label className="mb-2 text-sm font-medium text-gray-900 sr-only dark:text-white">
                 Search
               </label>
@@ -40,7 +46,7 @@ const Banner = () => {
                   required
                 />
                 <button
-                  type="submit"
+                  type="button"
                   className="text-white absolute right-2.5 bottom-2.5 bg-[#FF444A] hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-4 py-2 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
                 >
                   Search
@@ -53,5 +59,8 @@ const Banner = () => {
     </div>
   );
 };
-
+// Banner.propTypes = {
+//   donations: PropTypes.array.isRequired,
+//   setDonation: PropTypes.func.isRequired,
+// };
 export default Banner;

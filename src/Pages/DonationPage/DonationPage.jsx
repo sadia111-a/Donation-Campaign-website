@@ -20,7 +20,7 @@ const DonationPage = () => {
   return (
     <div>
       {noFound ? (
-        <p className="text-2xl font-semibold text-green-500 flex justify-center items-center h-[70vh]">
+        <p className="lg:text-2xl text-lg font-semibold text-green-500 flex justify-center items-center h-[70vh]">
           {noFound}
         </p>
       ) : (
