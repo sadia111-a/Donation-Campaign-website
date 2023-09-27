@@ -8,7 +8,7 @@
     "card_bg_color": "#0052FF26",
     "text_button_bg_color": "#0052FF",
     "description": "Your health is a precious gift, and there are those in need who hope for the gift of better health. Consider the power of your generosity. By donating to support health causes, you can be a lifeline for someone in their time of greatest need. Together, we can make a meaningful difference in the lives of those who deserve a chance at a healthier, happier life",
-    "price": 290.0
+    "price": 300.0
   },
   {
     "id": 2,
@@ -19,7 +19,7 @@
     "card_bg_color": "#FF444A26",
     "text_button_bg_color": "#FF444A",
     "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
-    "price": 290.0
+    "price": 400.0
   },
   {
     "id": 3,
@@ -30,7 +30,7 @@
     "card_bg_color": "#79C23F26",
     "text_button_bg_color": "#79C23F",
     "description": "Your clothing donation can make a world of difference. By giving away clothes you no longer need, you're not just clearing out your closet; you're providing warmth, dignity, and hope to someone in need. Your act of generosity doesn't just cover bodies; it wraps around hearts, reminding us all that kindness and compassion are always in style. Thank you for being a part of the fabric of change in someone's life.",
-    "price": 290.0
+    "price": 150.0
   },
   {
     "id": 4,
@@ -41,96 +41,96 @@
     "card_bg_color": "#F8714726",
     "text_button_bg_color": "#F87147",
     "description": "Food donation is a powerful act of kindness that nourishes not just the body, but also the soul. It's a reminder that in a world of abundance, we can make a difference in the lives of those who struggle to find their next meal. With every meal donated, we're not just filling a plate, we're filling hearts with hope and gratitude. Let us continue to share our blessings and combat hunger, one meal at a time, because together, we can create a world where no one goes to bed hungry.",
-    "price": 290.0
+    "price": 450.0
   },
   {
     "id": 5,
     "picture": "https://w7.pngwing.com/pngs/836/626/png-transparent-food-bank-food-drive-donation-baby-food-poor-food-breakfast-logo-thumbnail.png",
-    "title": "Better Food for Everyone",
+    "title": "Improving Food for All",
     "category": "Food",
     "category_bg_color": "#F8714733",
     "card_bg_color": "#F8714726",
     "text_button_bg_color": "#F87147",
-    "description": "Food donation is a powerful act of kindness that nourishes not just the body, but also the soul. It's a reminder that in a world of abundance, we can make a difference in the lives of those who struggle to find their next meal. With every meal donated, we're not just filling a plate, we're filling hearts with hope and gratitude. Let us continue to share our blessings and combat hunger, one meal at a time, because together, we can create a world where no one goes to bed hungry.",
-    "price": 290.0
+    "description": "A comprehensive initiative aimed at enhancing the accessibility, quality, and sustainability of food for individuals and communities worldwide. This project focuses on addressing key challenges in the food industry, from production and distribution to nutrition and waste reduction. Our mission is to create a more equitable and nutritious food system that benefits everyone, irrespective of their socio-economic status or geographic location.",
+    "price": 450.0
   },
   {
     "id": 6,
     "picture": "https://png.pngtree.com/png-clipart/20210828/ourmid/pngtree-volunteer-supplies-clothes-donation-concept-flat-illustration-png-image_3833299.jpg",
-    "title": "Used Clothing Drive",
+    "title": "Clothing Giveaway Event",
     "category": "Clothing",
     "category_bg_color": " #79C23F33",
     "card_bg_color": "#79C23F26",
     "text_button_bg_color": "#79C23F",
-    "description": "Your clothing donation can make a world of difference. By giving away clothes you no longer need, you're not just clearing out your closet; you're providing warmth, dignity, and hope to someone in need. Your act of generosity doesn't just cover bodies; it wraps around hearts, reminding us all that kindness and compassion are always in style. Thank you for being a part of the fabric of change in someone's life.",
-    "price": 290.0
+    "description": "Join us for a heartwarming Clothing Giveaway Event where we aim to spread warmth and kindness in our community. This event is all about giving back and helping those in need by providing free clothing to those who could use some extra support. Whether you're in need of warm winter coats, comfortable everyday attire, or stylish outfits, we've got something for everyone. Our goal is to ensure that everyone leaves with a smile and a sense of belonging.",
+    "price": 150.0
   },
   {
     "id": 7,
     "picture": "https://static.thenounproject.com/png/4345467-200.png",
-    "title": "Good education",
+    "title": "Effective Learning",
     "category": "Education",
     "category_bg_color": "#FF444A33",
     "card_bg_color": "#FF444A26",
     "text_button_bg_color": "#FF444A",
-    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
-    "price": 290.0
+    "description": "Effective learning refers to the process of acquiring knowledge and skills in a way that maximizes retention, comprehension, and application. It involves using various strategies, techniques, and resources to enhance the learning experience and achieve meaningful educational goals.",
+    "price": 400.0
   },
 
   {
     "id": 8,
     "picture": "https://png.pngtree.com/png-vector/20210512/ourmid/pngtree-doctor-and-donation-of-the-womens-donation-day-illustration-png-image_3271810.jpg",
-    "title": "Clean water for children",
+    "title": "Health Equity for All",
     "category": "Health",
     "category_bg_color": "#0052FF33",
     "card_bg_color": "#0052FF26",
     "text_button_bg_color": "#0052FF",
-    "description": "Your health is a precious gift, and there are those in need who hope for the gift of better health. Consider the power of your generosity. By donating to support health causes, you can be a lifeline for someone in their time of greatest need. Together, we can make a meaningful difference in the lives of those who deserve a chance at a healthier, happier life",
-    "price": 290.0
+    "description": "Health equity is the principle that all individuals should have the opportunity to attain their highest level of health. It emphasizes eliminating disparities in health outcomes and access to healthcare services among different populations, regardless of their socio-economic status, race, ethnicity, gender, or other factors. This JSON file serves as a comprehensive resource to promote, analyze, and address health disparities and inequities in healthcare systems globally.",
+    "price": 300.0
   },
 
   {
     "id": 9,
     "picture": "https://png.pngtree.com/element_our/png/20180918/giving-and-donate-png_100868.jpg",
-    "title": "Clean water for children",
+    "title": "Global Health Initiatives",
     "category": "Health",
     "category_bg_color": "#0052FF33",
     "card_bg_color": "#0052FF26",
     "text_button_bg_color": "#0052FF",
-    "description": "Your health is a precious gift, and there are those in need who hope for the gift of better health. Consider the power of your generosity. By donating to support health causes, you can be a lifeline for someone in their time of greatest need. Together, we can make a meaningful difference in the lives of those who deserve a chance at a healthier, happier life",
-    "price": 290.0
+    "description": "The Global Fund is a partnership that mobilizes and invests resources to combat HIV/AIDS, tuberculosis, and malaria. It provides funding for prevention, treatment, and care programs to reduce the impact of these diseases in affected communities.",
+    "price": 300.0
   },
   {
     "id": 10,
     "picture": "https://icon2.cleanpng.com/20181201/fgw/kisspng-graduation-ceremony-national-primary-school-gradua-5c0321bb843220.2504525115437091155415.jpg",
-    "title": "Good education",
+    "title": "Building Bright Futures",
     "category": "Education",
     "category_bg_color": "#FF444A33",
     "card_bg_color": "#FF444A26",
     "text_button_bg_color": "#FF444A",
-    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
-    "price": 290.0
+    "description": "Building Bright Futures is an innovative and comprehensive education program designed to empower students with the knowledge, skills, and resources they need to succeed in today's rapidly changing world. This program focuses on fostering a holistic approach to education, combining academic excellence with personal development and real-world application.",
+    "price": 400.0
   },
   {
     "id": 11,
     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRBoLRex_hIy69WtA74aeMhSN3pNVGW-_Ncg&usqp=CAU",
-    "title": "Used Clothing Drive",
+    "title": "Thrifted Fashion Drive",
     "category": "Clothing",
     "category_bg_color": " #79C23F33",
     "card_bg_color": "#79C23F26",
     "text_button_bg_color": "#79C23F",
-    "description": "Your clothing donation can make a world of difference. By giving away clothes you no longer need, you're not just clearing out your closet; you're providing warmth, dignity, and hope to someone in need. Your act of generosity doesn't just cover bodies; it wraps around hearts, reminding us all that kindness and compassion are always in style. Thank you for being a part of the fabric of change in someone's life.",
-    "price": 290.0
+    "description": "Embrace sustainable and stylish fashion with our Thrifted Fashion Drive collection. Discover curated vintage and second-hand clothing that not only reduces your carbon footprint but also tells a unique fashion story. Each piece has been handpicked for its timeless charm and individuality. From retro denim jackets to classic leather boots, our collection offers a wide range of one-of-a-kind fashion finds. Join us in the movement towards eco-conscious style and explore the beauty of pre-loved fashion with the Thrifted Fashion Drive.",
+    "price": 150.0
   },
   {
     "id": 12,
     "picture": "https://icon2.cleanpng.com/20180711/ayc/kisspng-donation-ice-cream-cones-clip-art-food-donation-5b46567de662a4.4879565415313363179437.jpg",
-    "title": "Better Food for Everyone",
+    "title": "Quality Food Initiatives",
     "category": "Food",
     "category_bg_color": "#F8714733",
     "card_bg_color": "#F8714726",
     "text_button_bg_color": "#F87147",
     "description": "Food donation is a powerful act of kindness that nourishes not just the body, but also the soul. It's a reminder that in a world of abundance, we can make a difference in the lives of those who struggle to find their next meal. With every meal donated, we're not just filling a plate, we're filling hearts with hope and gratitude. Let us continue to share our blessings and combat hunger, one meal at a time, because together, we can create a world where no one goes to bed hungry.",
-    "price": 290.0
+    "price": 450.0
   }
 ]

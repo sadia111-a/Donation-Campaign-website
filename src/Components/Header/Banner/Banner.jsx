@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import "../../../Style/Style.css";
 import PropTypes from "prop-types";
 import Donations from "../../Donations/Donations";

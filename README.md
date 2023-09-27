@@ -1,6 +1,6 @@
 # Here are three notable features of my project:
 
-- Donations Display: One of the main features of your code is the ability to display a list of donations. The Donations component maps through a donations array and renders individual donation cards using the DonationsCard component. Each donation card includes information like picture, title, category, and more. This feature allows users to view a list of donations available in your application.
+- Donations Display: One of the main features of my code is the ability to display a list of donations. The Donations component maps through a donations array and renders individual donation cards using the DonationsCard component. Each donation card includes information like picture, title, category, and more. This feature allows users to view a list of donations available in my application.
 
 - Donation Page: Another significant feature is the DonationPage component. This component displays a grid of donation cards, but it also includes a "See All" button that, when clicked, reveals all available donations. This feature provides users with the option to see more donations, enhancing the user experience.
 

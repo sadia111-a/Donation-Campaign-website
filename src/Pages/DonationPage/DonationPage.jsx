@@ -14,8 +14,8 @@ const DonationPage = () => {
       setNoFound("You have not made any Donations yet !!!");
     }
   }, []);
-  console.log(donation);
-  console.log(isShow);
+  // console.log(donation);
+  // console.log(isShow);
 
   return (
     <div>

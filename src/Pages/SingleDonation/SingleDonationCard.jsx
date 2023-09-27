@@ -37,7 +37,7 @@ const SingleDonationCard = ({ donation }) => {
         <div className="relative">
           <div className="min-h-[60vh]  py-5">
             <div className="relative ">
-              <img className="  w-11/12 mx-auto" src={picture} alt="" />
+              <img className="w-11/12 mx-auto" src={picture} alt="" />
               <div className="absolute bottom-0 left-[17px] md:left-8 lg:left-[53px] mx-auto w-full  text-start">
                 <div
                   className=" w-11/12 bottom-0"
@@ -51,7 +51,7 @@ const SingleDonationCard = ({ donation }) => {
                   <button
                     onClick={handleAddToDonation}
                     style={{ background: text_button_bg_color }}
-                    className="text-[#FFF]  text-xl  font-semibold px-5 py-4 rounded-md"
+                    className="text-[#FFF] text-sm  lg:text-xl  font-semibold px-1 lg:px-5 py-1 lg:py-4 rounded-md"
                   >
                     Donate ${price}
                   </button>

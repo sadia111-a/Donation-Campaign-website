@@ -16,10 +16,10 @@ const DonationsCard = ({ donation }) => {
         style={{ background: card_bg_color }}
         className="card  bg-base-100 shadow-xl"
       >
-        <figure className="h-[200px]">
-          <img src={picture} alt="Shoes" />
+        <figure className="h-[200px] ">
+          <img className="w-full" src={picture} alt="Shoes" />
         </figure>
-        <div className="card-body">
+        <div className="card-body h-[136px]">
           <h2
             style={{
               background: category_bg_color,
@@ -29,6 +29,7 @@ const DonationsCard = ({ donation }) => {
           >
             {category}
           </h2>
+
           <p
             style={{ color: text_button_bg_color }}
             className="text-xl font-semibold"

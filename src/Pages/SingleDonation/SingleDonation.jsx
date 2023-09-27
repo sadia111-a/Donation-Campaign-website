@@ -11,7 +11,7 @@ const SingleDonation = () => {
     const findDonation = donations.find((donation) => donation.id == id);
     setDonation(findDonation);
   }, [id, donations]);
-  console.log(donation);
+  // console.log(donation);
   return (
     <div>
       <SingleDonationCard donation={donation}></SingleDonationCard>
