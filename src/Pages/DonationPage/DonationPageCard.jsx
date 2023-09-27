@@ -30,7 +30,7 @@ const DonationPageCard = ({ donation }) => {
                 background: category_bg_color,
                 color: text_button_bg_color,
               }}
-              className="text-center text-sm font-medium w-1/3 py-2 rounded-lg pl-2"
+              className="text-center text-sm px-16 font-medium w-1/3 py-2 rounded-lg pl-2"
             >
               {category}
             </h2>
